@@ -1,5 +1,24 @@
 ---
 title: "About"
----
 
-About this site
+image: img/image.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/franklin-aryee-118729183/
+    - icon: github
+      text: github
+      href: https://github.com/jim-franklin/
+---
+Graduate Master of Data Science Student seeking machine learning roles in the oil and gas industry. Eager to explore how data solutions can reduce carbon emissions to address climate change.
+
+
+## Education
+
+University of British Columbia, Vancouver | 
+Master of Data Science | Sept 2024 - June 2025
+
+Kwame Nkrumah University of Science and Technology, Kumasi | 
+B. Sc. Petroleum Engineering | October 2018 - November 2022
